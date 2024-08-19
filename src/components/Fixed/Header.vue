@@ -6,8 +6,6 @@
     </header>
 </template>
 
-<!-- CSS Islemlerinin Sadece Islemin Yapildigi Dosya Icinde
-        Gecerli Olmasi Icin scoped keyword Kullaniyoruz -->
 <style scoped>
     header{
         background: lightblue;
